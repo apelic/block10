@@ -1,0 +1,12 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.layout{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+header, footer{
+    flex: 0 0 50px;
+}
